@@ -1,0 +1,11 @@
+.spinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quote-container{
+  width: 50%;
+  margin: 50px auto;
+ 
+  
+}
